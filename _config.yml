@@ -4,9 +4,9 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Ruming
-middle_name: .
+middle_name:
 last_name: Tang
-email: you@example.com
+email: me@2rm.me
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -39,7 +39,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: # your GitHub user name
+github_username: Chameee # your GitHub user name
 twitter_username: # your Twitter handle
 linkedin_username: # your LinkedIn user name
 scholar_userid: # your Google Scholar ID

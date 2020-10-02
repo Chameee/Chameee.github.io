@@ -9,16 +9,17 @@ profile:
   image: prof_pic.jpg
   address: >
     <p>School of Data Science</p>
-    <p>220 Handan Rd. Fudan University</p>
-    <p>ShangHai, China 200000</p>
+    <p>Fudan University</p>
+    <p>220 Handan Rd, ShangHai, CN</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+I am currently a junior year student at [Fudan University](https://www.fudan.edu.cn), [School of Data Science](https://sds.fudan.edu.cn), major in Data Science. 
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My research interests are in Artificial Intelligence, Statistics Theory used in Machine Learning. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Besides, as a member of [FDUCSLG](https://github.com/FDUCSLG) ( an open community for technology enthusiasts in Fudan ), I am a backend developer in Project [fudan_today](https://fdxk.info) ( an open, cross-platform commmunity for all students to get information conveniently and share opinions freely ).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+During the past two semesters, I worked as a Program Director in [TECC_FDU](), which is one of the largest student-based volunteer organizations in Fudan
